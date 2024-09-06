@@ -1,0 +1,55 @@
+@media screen and (max-width: 1280px) {
+
+
+.col-md-5
+{
+	width: 50%;
+}
+.col-md-6
+{
+	width: 50%;
+}
+
+.col-md-4
+{
+	width: 50%;
+}	
+	
+
+.control-group
+{
+	margin-left: -58px;
+}
+   
+}
+
+
+
+@media screen and (max-width: 1366px) {
+
+
+.col-md-5
+{
+	width: 50%;
+}
+.col-md-6
+{
+	width: 50%;
+}
+
+.col-md-4
+{
+	/*width: 50%;*/
+}	
+	
+
+.control-group
+{
+	margin-left: -45px;
+}
+   
+}
+
+
+   
+}

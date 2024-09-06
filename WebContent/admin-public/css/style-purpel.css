@@ -1,0 +1,35 @@
+body {color: #FF33FF;background:#000 none;}
+p{color:#FF33FF}
+.exchange h4{color: #FF33FF}
+.mission h4{color: #FF33FF}
+.whatis h1{color: #FF33FF}
+.whatis span{color: #FF33FF}
+h1,h2,h3,h4,h5,a{color: #FF33FF}
+.questionmark{color: #FF33FF}
+.body-column a{color: #FF33FF}
+.register-box p{ color:#38527d}
+.register-box h5 a{ color:#38527d}
+.login-box h4 { color:#38527d}
+.login-box label { color:#38527d}
+.login-box small { color:#38527d}
+table.gridview tr td a{color:#38527d;}
+a, a:link, a:visited{color: #FF33FF}
+#bottom-fullwidth{background:none;}
+.container{background:none;}
+#banner{background:none;}
+#footer-fulwidth{background:#000 none;} 
+#footer-fulwidth .footer{background:#000 none;}
+#top-links{background:#000 none;}
+#top-links ul li a{color:#FF33FF;}
+.search_bg{background:#000 none;}
+#navigation ul li a:hover{background:#000;color:#FF33FF}
+#navigation ul li ul li a{background:#000;color:#FF33FF}
+.state{background:#000 none;}
+#content-wrapper .sidebar{background:#000 none;}
+.sidebar-content ul li a{color:#FF33FF;}
+.tab{background:#000 none;}
+.programe{background:#000 none;}
+.programe ul{background:#000 none;}
+.event_bg{background:#000 none;}
+.link_bg{background:#000 none;}
+.sidebar .activities_bg{background:#000 none;}

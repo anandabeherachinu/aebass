@@ -1,0 +1,25 @@
+body {color: #fdeb44;background-color: #000;}  
+.whatis h1{color: #fdeb44}
+.whatis span{color: #fdeb44}
+h1,h2,h3,h4,h5,a{color: #fdeb44}
+p{color:#fdeb44}
+em{color:#fdeb44}
+ 
+.questionmark{color: #fdeb44}
+.body-column a{color: #fdeb44}
+.register-box p{ color:#38527d}
+.register-box h5 a{ color:#38527d}
+.register-box h4{ color:#38527d}
+.register-box label{ color:#38527d}
+.login-box h4 { color:#38527d}
+.login-box label { color:#38527d}
+.login-box a{ color:#38527d}
+.login-box small { color:#38527d}
+table.gridview tr td a{color:#38527d;}
+a, a:link, a:visited{color: #fdeb44}
+.login-box p a { color:#38527d}
+.register-box p a { color:#fff}
+#tbl-background table.gridview tr td {background:#000; }
+#tbl-background table.gridview tr:hover  td{background:#000; }
+ .msg-success a{color:#2a65c6}
+ 

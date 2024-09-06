@@ -1,0 +1,25 @@
+  body {color: #FF33FF;background-color: #000;}
+.exchange h4{color: #FF33FF}
+.mission h4{color: #FF33FF}
+.whatis h1{color: #FF33FF}
+.whatis span{color: #FF33FF}
+h1,h2,h3,h4,h5,a{color: #FF33FF}
+p{color:#FF33FF}
+em{color:#FF33FF}
+.questionmark{color: #FF33FF}
+.body-column a{color: #FF33FF}
+.register-box p{ color:#38527d}
+.register-box h5 a{ color:#38527d}
+.register-box h4{ color:#38527d}
+.register-box label{ color:#38527d}
+.login-box h4 { color:#38527d}
+.login-box label { color:#38527d}
+.login-box a { color:#38527d}
+.login-box small { color:#38527d}
+table.gridview tr td a{color:#38527d;}
+a, a:link, a:visited{color: #FF33FF}
+.login-box p a { color:#38527d}
+.register-box p a { color:#fff}
+#tbl-background table.gridview tr td {background:#000; }
+#tbl-background table.gridview tr:hover  td{background:#000; }
+ .msg-success a{color:#2a65c6}
