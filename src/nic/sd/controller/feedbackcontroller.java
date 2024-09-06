@@ -38,7 +38,7 @@ public class feedbackcontroller {
 			HttpSession session) 
 	
 	{
-		System.out.println("POST");
+		// System.out.println("POST");
 		
 		System.out.println("POST"+fd.getName());
 		int insertfeedbacks = fdao.insertFeedback(fd);
